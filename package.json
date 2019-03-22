@@ -19,6 +19,7 @@
   "homepage": "https://github.com/dnafication/stream-adventure#readme",
   "dependencies": {
     "concat-stream": "^2.0.0",
+    "duplexer2": "^0.1.4",
     "request": "^2.88.0",
     "split": "^1.0.1",
     "through2": "^3.0.1",
